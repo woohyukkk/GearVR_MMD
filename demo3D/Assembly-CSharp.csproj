@@ -69,6 +69,8 @@
      <Compile Include="Assets\player.cs" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialVertFrag.cginc" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans-CullBack.shader" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\よんでね.txt" />
+     <None Include="Assets\Space Earth Stage\中文readme.txt" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial-CullBack-NoCastShadow.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial-CullBack.shader" />
@@ -78,8 +80,13 @@
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\HalfLambert.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans-CullBack.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialShadowVertFrag.cginc" />
+     <None Include="Assets\Space Earth Stage\English readme.txt" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\Tda式初音ミク・アペンド_Ver1.00.player.txt" />
+     <None Include="Assets\Space Earth Stage 1\readme.txt" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\readme_English.txt" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans-NoCastShadow.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialSurface.cginc" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\Tda式初音ミク・アペンド_Ver1.00.setting.txt" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-NoCastShadow.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial-NoCastShadow.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialDummy.shader" />
@@ -87,7 +94,10 @@
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-CullBack-NoCastShadow.shader" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterial.shader" />
+     <None Include="Assets\Space Earth Stage 1\English readme.txt" />
+     <None Include="Assets\Space Earth Stage\readme.txt" />
      <None Include="Assets\mmd-for-unity-proj-mmd-for-unity-de6d097\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-CullBack.shader" />
+     <None Include="Assets\Space Earth Stage 1\中文readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,0 +1,40 @@
+
+RigidBodyMass = "左胸１", 1.25;
+RigidBodyMass = "右胸１", 1.25;
+
+ShowMaterial = "face00", 0;
+ShowMaterial = "face01", 0;
+ShowMaterial = "eye_hi", 0;
+ShowMaterial = "eye_hi2", 0;
+ShowMaterial = "body02", 0;
+ShowMaterial = "hairshadow", 0;
+ShowMaterial = "cheek", 0;
+ShowMaterial = "lens", 0;
+
+PlayerHeadBoneName = "頭";
+PlayerEyePos = 0.0, 17.83, -0.86;
+
+PlayerLeftWristBoneName = "左手首";
+PlayerLeftArmNumofBoneLink = 6;
+PlayerLeftFingerBoneNameList = "", "左親指１", "左親指２", "左人指１", "左人指２", "左人指３", "左中指１", "左中指２", "左中指３", "左薬指１", "左薬指２", "左薬指３", "左小指１", "左小指２", "左小指３";
+
+PlayerLeftArmBoneIKLimit = "左手首", -90.0, -20.0, -90.0, 90.0, 20.0, 45.0;
+PlayerLeftArmBoneIKLimit = "左手捩", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerLeftArmBoneIKLimit = "左ひじ", -10.0, 0.0, 0.0, 10.0, 150.0, 0.0;
+PlayerLeftArmBoneIKLimit = "左腕捩", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerLeftArmBoneIKLimit = "左腕", -20.0, -30.0, -45.0, 20.0, 135.0, 45.0;
+PlayerLeftArmBoneIKLimit = "左肩C", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerLeftArmBoneIKLimit = "左肩", -5.0, -10.0, -10.0, 5.0, 10.0, 30.0;
+
+PlayerRightWristBoneName = "右手首";
+PlayerRightArmNumofBoneLink = 6;
+PlayerRightFingerBoneNameList = "", "右親指１", "右親指２", "右人指１", "右人指２", "右人指３", "右中指１", "右中指２", "右中指３", "右薬指１", "右薬指２", "右薬指３", "右小指１", "右小指２", "右小指３";
+
+PlayerRightArmBoneIKLimit = "右手首", -90.0, -20.0, -90.0, 90.0, 20.0, 45.0;
+PlayerRightArmBoneIKLimit = "右手捩", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerRightArmBoneIKLimit = "右ひじ", -10.0, 0.0, 0.0, 10.0, 150.0, 0.0;
+PlayerRightArmBoneIKLimit = "右腕捩", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerRightArmBoneIKLimit = "右腕", -20.0, -30.0, -45.0, 20.0, 135.0, 45.0;
+PlayerRightArmBoneIKLimit = "右肩C", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+PlayerRightArmBoneIKLimit = "右肩", -5.0, -10.0, -10.0, 5.0, 10.0, 30.0;
+

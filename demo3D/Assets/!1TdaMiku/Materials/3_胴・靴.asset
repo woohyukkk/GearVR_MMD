@@ -36,7 +36,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Opacity: 1
-    - _OutlineWidth: 7.0588236
+    - _OutlineWidth: 1
     - _Shininess: 50
     m_Colors:
     - _AmbColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
